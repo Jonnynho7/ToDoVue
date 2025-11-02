@@ -10,7 +10,6 @@ const estado = reactive({
   tarefas: [
     { titulo: 'Estudar ES6', finalizada: false },
     { titulo: 'Estudar Sass', finalizada: false },
-    { titulo: 'Limpar a casa', finalizada: true }
   ]
 })
 
